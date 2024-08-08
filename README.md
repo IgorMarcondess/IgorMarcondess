@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="https://br.linkedin.com/?src=go-pa&trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1001773&mcid=6821526239111716925&cid=&gad_source=1&gclid=CjwKCAjw2dG1BhB4EiwA998cqDhqBRW0-kJK3xOpnyPa2-og3OlG0_RmQHk2MYwddb3_BI6tsoy9ZxoCA-wQAvD_BwE&gclsrc=aw.ds">
+  <a href="https://br.linkedin.com/?src=go-pa&trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811713_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1001773&mcid=6821526239111716925&cid=&gad_source=1&gclid=CjwKCAjw2dG1BhB4EiwA998cqDhqBRW0-kJK3xOpnyPa2-og3OlG0_RmQHk2MYwddb3_BI6tsoy9ZxoCA-wQAvD_BwE&gclsrc=aw.ds" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
