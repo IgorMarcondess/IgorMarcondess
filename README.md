@@ -7,6 +7,7 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcondezz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=cobalt2&hide_border=false&custom_title=Coding..." height="150" alt="languages graph"  />
   </div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=15&pause=1000&color=F7D847&width=435&lines=Front-end+Developer!+;Studyng+Systems+analysis+and+development" alt="Typing SVG" /></a>
   
   ###
   
