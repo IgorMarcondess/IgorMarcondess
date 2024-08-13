@@ -5,9 +5,6 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcondezz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=cobalt2&hide_border=false&custom_title=Coding..." height="150" alt="languages graph"  />
   </div>
-
-  
-  ###
   
   <br clear="both">
   
