@@ -1,5 +1,4 @@
 <h2 align="left">Welcome! My name is Igor, all good 🤙🏾?</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=F7EB62&width=435&lines=Front-end+Developer!+Studyng+Systems+analysis+and+development." alt="Typing SVG" /></a>
 
 <br clear="both">
 <div float="Right">
