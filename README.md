@@ -5,7 +5,8 @@ val igor = listOf(
     age = 19, 
     country = "Brasil",
     city = "São Paulo, SP",
-    languages = listOf("Português-BR", "Inglês"), 
+    languages = listOf("Português-BR", "Inglês"),
+    programming_knowledge = listOf("Python", "React", "JavaScript", "TypeScript", "Java", "MySQL"),
     interests = listOf("Desenvolvimento Web", "Inteligência Artificial", "Data Science"),
     hobbies = listOf("Programação", "Música", "Esportes")
 )
