@@ -2,8 +2,15 @@
 
 <br clear="both">
 <div float="Right">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcondezz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=cobalt2&hide_border=false&custom_title=Coding..." height="150" alt="languages graph"  />
+val Igor = listOf(
+    age = 19, 
+    country = "Brasil",
+    city = "São Paulo, SP",
+    languages = listOf("Português-BR", "Inglês"), 
+    interests = listOf("Desenvolvimento Web", "Inteligência Artificial", "Data scientist"),
+    hobbies = listOf("Programação", "Música", "Esportes")
+)
+
   </div>
   
   <br clear="both">
