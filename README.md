@@ -1,7 +1,7 @@
 <h2 align="left">Welcome! My name is Igor, all good 🤙🏾?</h2>
 
 ```kotlin
-val igor = listOf(
+val Igor = listOf(
     age = 19, 
     country = "Brasil",
     city = "São Paulo, SP",
